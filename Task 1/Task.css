@@ -1,0 +1,9 @@
+h1{
+    color: #4876E7;
+}
+.text{
+    border: 10px outset plum;
+    background-color: lightblue;  
+    width: 200px;
+    height:200px;  
+}
